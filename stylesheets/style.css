@@ -2,8 +2,22 @@
 body {
   font-family: 'Roboto';
   background-color: #121212;
-  color: #d3d3d3;
 }
+
+/*headers*/
+h1 {
+  color: #ffffff;
+}
+
+/*text*/
+.ptext {
+  color: #ffffff;
+}
+
+.stext {
+  color: #b3b3b3;
+}
+
 
 /*links*/
 a {
