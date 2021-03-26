@@ -3,7 +3,8 @@
 Hello. This is my portfolio page.
 
 **Changelog**
-*v1.0*
+
+_v1.0_
 Official launch.
 -socials links
 -links to most projects
